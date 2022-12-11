@@ -48,21 +48,21 @@ body {
   padding-right: 33px;
 }
 
-.name {
+.mor705 {
   font-weight: 300;
   font-size: 24px;
   line-height: 45px;
   margin-bottom: 53px;
 }
 
-h1 {
+.title {
   font-weight: 300;
   font-size: 250px;
   line-height: 230px;
   margin-bottom: 43px;
 }
 
-.watches {
+.uptitle {
   font-weight: 300;
   font-size: 32px;
   line-height: 50px;
@@ -95,8 +95,115 @@ h1 {
   text-align: center;
 }
 
-.watch1 {
+.images-mor705 {
   width: 408px;
   height: 720px;
 }
 
+.fullblock {
+  flex-direction: column;
+}
+
+.popular {
+  font-weight: 300;
+  font-size: 24px;
+  text-align: center;
+}
+
+.models {
+  font-weight: 400;
+  font-size: 72px;
+  text-align: center;
+  margin-bottom: 84px;
+}
+
+.images-background {
+  margin: 0% auto;
+  display: flex;
+  justify-content: center;
+  width: 417px;
+  height: 630px;
+  background-color: #f8f8f8;
+  margin-bottom: 67px;
+}
+
+.images-son22 {
+  text-align: center;
+  padding-top: 110px;
+  width: 286px;
+  height: 410px;
+}
+
+.son22 {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 29px;
+  text-align: center;
+  margin-bottom: 17px;
+}
+
+.upson22 {
+  margin: 0% auto;
+  height: 194px;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 50px;
+  text-align: center;
+  margin-bottom: 85px;
+}
+
+.images-background-sw12 {
+  margin: 0% auto;
+  display: flex;
+  justify-content: center;
+  width: 496px;
+  height: 630px;
+  background-color: #f8f8f8;
+  margin-bottom: 67px;
+}
+
+.images-sw12 {
+  text-align: center;
+  padding-top: 65px;
+  width: 500px;
+  height: 500px;
+}
+
+.sw12 {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 29px;
+  text-align: center;
+  margin-bottom: 17px;
+}
+
+.upsw12 {
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 50px;
+  text-align: center;
+  margin-bottom: 59px;
+}
+
+.product {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 60px;
+  text-align: center;
+  margin-bottom: 58px;
+}
+
+.decoration-product {
+  text-decoration: underline;
+}
+
+.upproduct {
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 41px;
+  text-align: center;
+}
+
+.last {
+  color: #bb8b5d;
+}
